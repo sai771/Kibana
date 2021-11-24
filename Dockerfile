@@ -1,4 +1,4 @@
-FROM rhel7:7.3
+FROM redhat/ubi8-init
 
 MAINTAINER OpenShift Development <dev@lists.openshift.redhat.com>
 
